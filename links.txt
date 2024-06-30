@@ -13,3 +13,5 @@ https://www.youtube.com/watch?v=BBzqX08GPo8&list=PLo80JwUm6hSSwGLJmS_quaeJgx9SIL
 https://towardsdatascience.com/recommendation-systems-explained-a42fc60591ed
 
 https://nbviewer.org/github/mustafamuratcoskun/
+
+https://safkaninsan.blogspot.com/search/label/python
