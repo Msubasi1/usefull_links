@@ -11,3 +11,5 @@ https://github.com/HaaaToka/HUCS
 https://www.youtube.com/watch?v=BBzqX08GPo8&list=PLo80JwUm6hSSwGLJmS_quaeJgx9SILLiI&ab_channel=EpicNetworksLab
 
 https://towardsdatascience.com/recommendation-systems-explained-a42fc60591ed
+
+https://nbviewer.org/github/mustafamuratcoskun/
